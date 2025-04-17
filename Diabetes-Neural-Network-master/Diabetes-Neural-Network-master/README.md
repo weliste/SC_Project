@@ -1,5 +1,5 @@
 # **Diabetes Neural Network**</h1> 
-__**By: Svanik Dani**__
+
 
 
 This Neural Network has been trained to predict the probability of getting diabetes.
@@ -128,10 +128,7 @@ The model is then saved so it can later be reloaded into another file for predic
 model.save('diabetes_risk_nn.h5')
 ```
 
-Thank you so much for reading about this neural network and how it was constructed. Hope it inspires you to create something yourself!<br/>
 
-
-**~Svanik Dani**
 
 
 
